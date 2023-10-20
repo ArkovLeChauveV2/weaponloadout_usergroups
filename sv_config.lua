@@ -1,0 +1,2 @@
+-- AddWeaponLoadoutGroup("vip", {"weapon_ak472", "weapon_crowbar"})
+-- AddWeaponLoadoutGroup("operator", {"weapon_pistol"})
